@@ -1,26 +1,21 @@
 # RushProject — Resume Website
 
-A **multi-page personal resume website** made with HTML and CSS.
+A multi-page resume website created with HTML and CSS.
 
 ## Features
-- Landing page linking to individual resume pages
-- Personal profile pages and image assets
-- Custom navigation and page styling
+- Landing page with navigation to resume pages
+- Individual profile pages
+- Custom page layouts and styling
 
-## Tech stack
-**HTML5 · CSS3**
+## Tech Stack
+- HTML5
+- CSS3
 
-## Run locally
-
-Open `rush00/index.html` in a browser. No build tools or backend are needed.
-
-## Key files
+## Project Structure
 - `rush00/index.html` — homepage
-- `rush00/wattjull.html` — one profile page
-- `rush00/tnontaph.html` — another profile page
-- `rush00/*.css` — custom styles
+- `rush00/wattjull.html` — resume page
+- `rush00/tnontaph.html` — resume page
+- `rush00/*.css` — page styling
 
-> This is a static website project, not a full-stack application. Review any personal information in public resume pages before sharing widely.
-
----
-Built as a web-development project.
+## Run Locally
+Open `rush00/index.html` in a browser.
